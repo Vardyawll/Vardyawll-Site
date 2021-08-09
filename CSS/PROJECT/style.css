@@ -1,0 +1,120 @@
+.menu{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    font-size: 26pt;
+    letter-spacing: 6px;
+    text-align: center;
+    list-style: none;
+    color: #e3e3e3;
+    background-color: black;
+    cursor: pointer;
+}
+.menu li{
+    display: inline-block;
+    padding: 0 50px;
+}
+.menu li:hover{
+    color: #a5a5a5;
+}
+.menu li a{
+    color: #e3e3e3;
+    text-decoration: none;
+}
+.menu li a:hover{
+    color: #a5a5a5;
+}
+.imagemballs{
+    margin-top: 75px;
+    padding: 50px;
+}
+.information{
+
+}
+.information li{
+    list-style: none;
+    font-size: 24pt;
+}
+.imagemrecor{
+    float: right;
+    background-color: black;
+    padding: 200px;
+}
+.experiences{
+    list-style: none;
+    text-align: left;
+    font-size: 24pt;
+    letter-spacing: 5px;
+    color: #e3e3e3;
+    display: inline-block;
+    padding-right: 550px;
+    background-color: black;
+}
+.experiences li{
+    list-style: circle;
+    text-align: left;
+    font-size: 24pt;
+    letter-spacing: 5px;
+    color: #e3e3e3;
+    background-color: black;
+    padding: 50px; 
+}
+.exp{
+    margin-left: 100px;
+}
+.para{
+    margin: 100px;
+}
+.aboutme{
+    list-style: none;
+    text-align: left;
+    font-size: 24pt;
+    letter-spacing: 7px;
+    color: #e3e3e3;
+    display: inline-block;
+    padding-right: 550px;
+    background-color: black;
+}
+.aboutme li{
+    list-style: circle;
+    text-align: left;
+    font-size: 24pt;
+    letter-spacing: 5px;
+    color: #e3e3e3;
+    background-color: black;
+    padding: 100px; 
+}
+.sob{
+    margin-left: 100px;
+}
+.para2{
+    margin: 100px;
+}
+.illus{
+    margin-left: 100px;
+}
+.illustrations{
+    font-size: 26pt;
+    letter-spacing: 5px;
+    color: #e3e3e3;
+    background-color: black;
+    padding: 100px;
+}
+.illustrations li{
+    text-align: center;
+    list-style: none;
+    padding: 125px;
+    display: inline-block;
+}
+body{
+    font-family: 'Bebas Neue', bahnschrift, arial;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url(../../HTML/img/FUNDO.png);
+}
